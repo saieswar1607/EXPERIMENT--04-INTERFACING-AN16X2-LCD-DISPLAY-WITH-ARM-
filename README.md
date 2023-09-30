@@ -193,7 +193,7 @@ int main(void)
       Lcd_cursor(&lcd, 0,0);
       Lcd_string(&lcd, "Dept: AI-ML");
       Lcd_cursor(&lcd, 1,0);
-      Lcd_string(&lcd,"Name: Eswar");
+      Lcd_string(&lcd,"Name: ESWAR");
   while (1){ }
 }
 void SystemClock_Config(void)
