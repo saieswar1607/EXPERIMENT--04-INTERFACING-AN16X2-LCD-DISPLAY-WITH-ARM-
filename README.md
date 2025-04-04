@@ -271,5 +271,3 @@ void assert_failed(uint8_t *file, uint32_t line){}
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
-
-](https://github.com/saieswar1607/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-.git)
